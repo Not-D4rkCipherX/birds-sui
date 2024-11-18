@@ -153,10 +153,6 @@ Don't use bot with `session` type if you using telegram account that bought from
 
 This bot can use Telegram Query and Telegram Sessions. if you want to use sessions, and ever use one of my bot that use telegram sessions, you can just copy the `accounts` folder to this bot. Also for the telegram APP ID and Hash you can use it from another bot. If you want to use Telegram Query, get your query manually.
 
-## CONTRIBUTE
-
-Feel free to fork and contribute adding more feature thanks. To get original unencrypted code just Join my channel and DM me, original code (index.js and src folder) are Obfuscated during build
-
 ## LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
