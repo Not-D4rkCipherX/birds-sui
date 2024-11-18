@@ -4,6 +4,7 @@
 
 **AIRDROP** : 
 BIRDS (SUI NETWORK) : [Join Here](https://t.me/birdx2_bot/birdx?startapp=6896240442)
+
 **Task** :
 - Complete Social Media Task
 - Upgrade Egg
