@@ -5,15 +5,18 @@
   "description": "birds-sui-bot",
   "main": "index.js",
   "scripts": {
-    "start": "node start.js",
-    "setup": "node setup.js",
+    "start": "node scripts/start.js",
+    "setup": "node scripts/setup.js",
     "dev": "node index.js",
     "test": "node test.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
   "bin": "index.js",
   "keywords": [
-    "birds-sui-bot"
+  "birds-sui-bot",
+  "airdrop",
+  "mini-app",
+  "rambeboy"
   ],
   "author": "Rambeboy",
   "license": "ISC",
