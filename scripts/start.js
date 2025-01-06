@@ -33,5 +33,5 @@ const configDest = path.join(process.cwd(), "app", "config");
   await copyFolder(configSrc, configDest);
 
   console.log("Starting the app...");
-  await import("./app/index.js");
+  await import("../app/index.js");
 })();
